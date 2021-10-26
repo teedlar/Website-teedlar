@@ -1,7 +1,3 @@
-<!-- # Website-teedlar
-
-About the website -->
-
 # [Welcome to teedlar](https://teedlar.pythonanywhere.com/home)
 
 - [TNEB Bill Calculator](https://teedlar.pythonanywhere.com/home/tnebill)
@@ -92,14 +88,14 @@ About the website -->
 # [Search For Crypto Coins](https://teedlar.pythonanywhere.com/home/csearch)
  *Click on photo to get into website
 
-## [![Search For Crypto Coins][4.1]][11]
-[4.1]: https://github.com/teedlar/Website-teedlar/blob/main/ss/Crypto%20Search.png
-[11]: https://teedlar.pythonanywhere.com/home/csearch
+## [![Search For Crypto Coins][5.1]][14]
+[5.1]: https://github.com/teedlar/Website-teedlar/blob/main/ss/Crypto%20Search.png
+[14]: https://teedlar.pythonanywhere.com/home/csearch
 
-## [![Search For Crypto Coins][4.2]][12]
-[4.2]: https://github.com/teedlar/Website-teedlar/blob/main/ss/Crypto%20Search%20enter.png
-[12]: https://teedlar.pythonanywhere.com/home/csearch
+## [![Search For Crypto Coins][5.2]][15]
+[5.2]: https://github.com/teedlar/Website-teedlar/blob/main/ss/Crypto%20Search%20enter.png
+[15]: https://teedlar.pythonanywhere.com/home/csearch
 
-# [![feeback form teedlar][4.3]][13]
-[4.3]: https://github.com/teedlar/Website-teedlar/blob/main/ss/feeback%20form%20teedlar.png
-[13]: https://teedlar.pythonanywhere.com/home/feedback
+# [![feeback form teedlar][5.3]][16]
+[5.3]: https://github.com/teedlar/Website-teedlar/blob/main/ss/feeback%20form%20teedlar.png
+[16]: https://teedlar.pythonanywhere.com/home/feedback
